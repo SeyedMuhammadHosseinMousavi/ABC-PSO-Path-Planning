@@ -7,5 +7,6 @@
 % defines and a curved line tries to find the best path. Run multiple times
 % to find the best result. 
 % Hope this code help you :)
-![ABC+PSO Path Planning](https://user-images.githubusercontent.com/11339420/151451217-2a797e36-36b9-45bf-b19a-0b4173ba2418.gif)
+![ABC+PSO Path Planning](https://user-images.githubusercontent.com/11339420/151452025-793a0df1-524e-404f-83fb-fddcbc43ad22.gif)
+
 
