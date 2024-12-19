@@ -1,8 +1,12 @@
 # ABC PSO Path Planning
 - ABC + PSO Path Planning Problem
+
+<div align="justify">
+
 - Here, system tries to find the most optimal path between starting point and destination point with aid of Artificial Bee Colony (ABC) algorithm and Particle Swarm Optimization (PSO) algorithm combined. It is good strategy in robotics path finding. In each run new obstacles in new positions defines and a curved line tries to find the best path. Run multiple times to find the best result. 
 
 
+</div>
 
 
 
@@ -10,9 +14,14 @@
 
 ![ABC+PSO Path Planning](https://user-images.githubusercontent.com/11339420/151452025-793a0df1-524e-404f-83fb-fddcbc43ad22.gif)
 
-
+<div align="justify">
 
 This project implements a hybrid Artificial Bee Colony (ABC) and Particle Swarm Optimization (PSO) algorithm for robotic path planning. The objective is to find the most optimal path between a starting point and a destination while avoiding obstacles.
+
+
+
+</div>
+
 
 ## Features
 - Combines ABC and PSO for robust optimization.
